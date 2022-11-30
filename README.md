@@ -7,6 +7,8 @@ The purpose of this task to to continue to become familliar with the data analys
 Here, we explore bikeshare trip data collected from three US cities; Chicago, New York City and Washington.
 
 <h1>Usage</h1>
-1-Run the bikeshare.py file in the terminal
-2-Follow the steps of the user interface to filter the datasets by city, months and days
-3-The script then calculates some statistics about the data and show up them in the command line
+<ol>
+<li>Run the bikeshare.py file in the terminal</li>
+<li>Follow the steps of the user interface to filter the datasets by city, months and days</li>
+<li>The script then calculates some statistics about the data and show up them in the command line</li>
+</ol>
